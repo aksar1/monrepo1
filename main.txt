@@ -1,2 +1,4 @@
 #added html tag
-<html></html> 
+<html>
+<head></head>
+</html> 
